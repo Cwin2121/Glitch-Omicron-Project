@@ -1,6 +1,0 @@
-GLITCH OMICRON PROJECT CURRENT GOALS:
-
-1: keep searching summary pages for glitchy days and hours, make csv tables with get_omicron script for these segments.
-2: classify using PCA (or other) on these tables based solely on the omicron triggers ( 2 or 3 parameters)
-3: Also, create qscans of the glitches of each csv file (short 1 to 2 seconds around each glitch)
-4: Classify the images of the qscans using PCA (or other)
