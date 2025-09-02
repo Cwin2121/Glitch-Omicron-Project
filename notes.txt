@@ -1,7 +1,0 @@
-/home/detchar/triggers/H1/LSC_PRCL_OUT_DQ_OMICRON/13844
-
-H1-LSC_PRCL_OUT_DQ_OMICRON-1384400017-15180.h5
-
-1384400017  1384415197
-
-python getomicron-site.py --start 1384400017 --end 1384415197 --ifo H1 --channel LSC_PRCL_OUT_DQ_OMICRON --snr 10 --plot --verbose
